@@ -1,0 +1,1808 @@
+{
+    "Large Language Model Security": [
+        {
+            "name": "garak",
+            "repo": "https://github.com/leondz/garak",
+            "description": "LLM vulnerability scanner for various weaknesses"
+        },
+        {
+            "name": "rebuff",
+            "repo": "https://github.com/protectai/rebuff",
+            "description": "Protect AI applications from prompt injection attacks"
+        },
+        {
+            "name": "LLMFuzzer",
+            "repo": "https://github.com/mnns/LLMFuzzer",
+            "description": "Fuzzing Framework for Large Language Models"
+        }
+    ],
+    "Smart Contracts Security": [
+        {
+            "name": "mythril",
+            "repo": "https://github.com/ConsenSys/mythril",
+            "description": "Security analysis tool for EVM bytecode"
+        },
+        {
+            "name": "oyente",
+            "repo": "https://github.com/enzymefinance/oyente",
+            "description": "Analysis Tool for Smart Contracts"
+        },
+        {
+            "name": "securify2",
+            "repo": "https://github.com/eth-sri/securify2",
+            "description": "Official security scanner for Ethereum smart contracts"
+        },
+        {
+            "name": "smartcheck",
+            "repo": "https://github.com/smartdec/smartcheck",
+            "description": "Static analysis tool for Solidity programs"
+        },
+        {
+            "name": "MAIAN",
+            "repo": "https://github.com/ivicanikolicsg/MAIAN",
+            "description": "Tool for finding trace vulnerabilities in Ethereum smart contracts"
+        }
+    ],
+    "Red Team vs Blue Team": [
+        {
+            "name": "CDK",
+            "repo": "https://github.com/cdk-team/CDK",
+            "description": "Tool to gather information inside container/cluster and exploit them"
+        },
+        {
+            "name": "dockerscan",
+            "repo": "https://github.com/cr0hn/dockerscan",
+            "description": "Docker security analysis & hacking tools"
+        },
+        {
+            "name": "kubescape",
+            "repo": "https://github.com/armosec/kubescape",
+            "description": "Tool for testing if Kubernetes is deployed securely"
+        },
+        {
+            "name": "veinmind-tools",
+            "repo": "https://github.com/chaitin/veinmind-tools",
+            "description": "Container security scanner for backdoor, malicious, weak pass and sensitive data"
+        },
+        {
+            "name": "ThreatMapper",
+            "repo": "https://github.com/deepfence/ThreatMapper",
+            "description": "Scan for in-production vulnerabilities and exposed secrets"
+        },
+        {
+            "name": "SecretScanner",
+            "repo": "https://github.com/deepfence/SecretScanner",
+            "description": "Scan containers and host filesystems for unprotected keys, API tokens and passwords"
+        },
+        {
+            "name": "KubiScan",
+            "repo": "https://github.com/cyberark/KubiScan",
+            "description": "Tool to scan Kubernetes cluster for risky permissions"
+        },
+        {
+            "name": "vesta",
+            "repo": "https://github.com/kvesta/vesta",
+            "description": "Static analysis of vulnerabilities, Docker and Kubernetes cluster configuration detection toolkit"
+        },
+        {
+            "name": "grype",
+            "repo": "https://github.com/anchore/grype",
+            "description": "Vulnerability scanner for container images and filesystems"
+        }
+    ],
+    "Services fingerprint detection": [
+        {
+            "name": "EHole",
+            "repo": "https://github.com/EdgeSecurityTeam/EHole",
+            "description": "Core system fingerprint detection tool for Red team"
+        },
+        {
+            "name": "mass-bruter",
+            "repo": "https://github.com/opabravo/mass-bruter",
+            "description": "Mass bruteforce network protocols and default credentials for ports"
+        }
+    ],
+    "Man-In-The-Middle": [
+        {
+            "name": "nili",
+            "repo": "https://github.com/niloofarkheirkhah/nili",
+            "description": "Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing"
+        }
+    ],
+    "The framework": [
+        {
+            "name": "PytheM",
+            "repo": "https://github.com/m4n3dw0lf/PytheM",
+            "description": "Multi-purpose network pentest framework"
+        },
+        {
+            "name": "Viper",
+            "repo": "https://github.com/FunnyWolf/Viper",
+            "description": "Graphical, Modularization and weaponization intranet penetration tool"
+        },
+        {
+            "name": "AlliN",
+            "repo": "https://github.com/P1-Team/AlliN",
+            "description": "Used for asset collection before penetration and lateral movement of intranet"
+        },
+        {
+            "name": "LadonGo",
+            "repo": "https://github.com/k8gege/LadonGo",
+            "description": "Pentest framework for Windows/Linux/Mac intranet networks"
+        },
+        {
+            "name": "netspy",
+            "repo": "https://github.com/shmilylty/netspy",
+            "description": "Quickly scan the reachable network segmentation of the intranet"
+        },
+        {
+            "name": "CrackMapExec",
+            "repo": "https://github.com/byt3bl33d3r/CrackMapExec",
+            "description": "Swiss army knife for pentesting Windows/Active Directory environments"
+        },
+        {
+            "name": "nacs",
+            "repo": "https://github.com/u21h2/nacs",
+            "description": "Event-driven intranet pentest scanner"
+        },
+        {
+            "name": "SCMKit",
+            "repo": "https://github.com/h4wkst3r/SCMKit",
+            "description": "Source Code Management Attack Toolkit for GitHub Enterprise, GitLab Enterprise and Bitbucket Server"
+        },
+        {
+            "name": "MisConfig_HTTP_Proxy_Scanner",
+            "repo": "https://github.com/lijiejie/MisConfig_HTTP_Proxy_Scanner",
+            "description": "Helps to scan misconfigured reverse and forward proxy servers"
+        },
+        {
+            "name": "gogo",
+            "repo": "https://github.com/chainreactors/gogo",
+            "description": "A highly controllable and scalable automation engine for red teams"
+        },
+        {
+            "name": "k",
+            "repo": "e",
+            "description": "e"
+        }
+    ],
+    "Wireless Pentest": [
+        {
+            "name": "fern-wifi-cracker",
+            "repo": "https://github.com/savio-code/fern-wifi-cracker",
+            "description": "Testing and discovering flaws in one's own network"
+        },
+        {
+            "name": "WiFi-Pumpkin",
+            "repo": "https://github.com/P0cL4bs/WiFi-Pumpkin",
+            "description": "Framework for Rogue Wi-Fi Access Point Attack"
+        },
+        {
+            "name": "BoopSuite",
+            "repo": "https://github.com/MisterBianco/BoopSuite",
+            "description": "Suite of Tools written in Python for wireless auditing and security testing"
+        },
+        {
+            "name": "PiFinger",
+            "repo": "https://github.com/besimaltnok/PiFinger",
+            "description": "Searches for wifi-pineapple traces and calculates wireless network security score"
+        },
+        {
+            "name": "wifite2",
+            "repo": "https://github.com/derv82/wifite2",
+            "description": "Automated Wireless Attack Tool"
+        },
+        {
+            "name": "WEF",
+            "repo": "https://github.com/D3Ext/WEF",
+            "description": "Wi-Fi Exploitation Framework for 2.4 and 5 GHz attacks"
+        },
+        {
+            "name": "pinecone",
+            "repo": "https://github.com/pinecone-wifi/pinecone",
+            "description": "WLAN red team framework"
+        }
+    ],
+    "Mobile Apps Packages Analysis": [
+        {
+            "name": "apkleaks",
+            "repo": "https://github.com/dwisiswant0/apkleaks",
+            "description": "Scanning APK file for URIs, endpoints & secrets"
+        },
+        {
+            "name": "AppInfoScanner",
+            "repo": "https://github.com/kelvinBen/AppInfoScanner",
+            "description": "Collecting information from APK file, support self-defined rules"
+        },
+        {
+            "name": "androwarn",
+            "repo": "https://github.com/maaaaz/androwarn",
+            "description": "Static code analyzer for malicious Android applications"
+        },
+        {
+            "name": "quark-engine",
+            "repo": "https://github.com/quark-engine/quark-engine",
+            "description": "Android Malware (Analysis | Scoring) System"
+        },
+        {
+            "name": "engine",
+            "repo": "https://github.com/droidefense/engine",
+            "description": "Advance Android malware analysis framework"
+        },
+        {
+            "name": "Adhrit",
+            "repo": "https://github.com/abhi-r3v0/Adhrit",
+            "description": "Android Security Suite for in-depth reconnaissance and static bytecode analysis based on Ghera benchmarks"
+        },
+        {
+            "name": "Tai-e",
+            "repo": "https://github.com/pascal-lab/Tai-e",
+            "description": "Easy-to-learn/use static analysis framework for Java, especially for Android"
+        },
+        {
+            "name": "APKHunt",
+            "repo": "https://github.com/Cyber-Buddy/APKHunt",
+            "description": "Comprehensive static code analysis tool for Android apps based on OWASP MASVS framework"
+        },
+        {
+            "name": "droidlysis",
+            "repo": "https://github.com/cryptax/droidlysis",
+            "description": "Pre-analysis tool for Android apps: performs repetitive and boring tasks we'd typically do at the beginning of any reverse engineering"
+        }
+    ],
+    "Binary Executables Analysis": [
+        {
+            "name": "dorothy2",
+            "repo": "https://github.com/m4rco-/dorothy2",
+            "description": "Malware/botnet analysis framework written in Ruby"
+        },
+        {
+            "name": "HaboMalHunter",
+            "repo": "https://github.com/Tencent/HaboMalHunter",
+            "description": "Automated malware analysis and security assessment on the Linux system"
+        },
+        {
+            "name": "BinAbsInspector",
+            "repo": "https://github.com/KeenSecurityLab/BinAbsInspector",
+            "description": "Static analyzer for automated reverse engineering and scanning vulnerabilities in binaries"
+        },
+        {
+            "name": "cwe_checker",
+            "repo": "https://github.com/fkie-cad/cwe_checker",
+            "description": "Static analyzer for detecting common bug classes such as buffer overflows in binaries"
+        },
+        {
+            "name": "bincat",
+            "repo": "https://github.com/airbus-seclab/bincat",
+            "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis"
+        }
+    ],
+    "Privacy Compliance": [
+        {
+            "name": "riskscanner",
+            "repo": "https://github.com/riskscanner/riskscanner",
+            "description": "Multi-cloud privacy compliance scanning platform, through Cloud Custodian's YAML DSL to define scanning rules"
+        },
+        {
+            "name": "bombus",
+            "repo": "https://github.com/momosecurity/bombus",
+            "description": "Enterprise security and privacy compliance platform"
+        }
+    ],
+    "Subdomain Enumeration or Takeover": [
+        {
+            "name": "subDomainsBrute",
+            "repo": "https://github.com/lijiejie/subDomainsBrute",
+            "description": "A classical subdomain enumeration Tool by lijiejie"
+        },
+        {
+            "name": "wydomain",
+            "repo": "https://github.com/ring04h/wydomain",
+            "description": "A Speed and Precision subdomain enumeration Tool by ringzero"
+        },
+        {
+            "name": "dnsmaper",
+            "repo": "https://github.com/le4f/dnsmaper",
+            "description": "Subdomain enumeration tool with map record"
+        },
+        {
+            "name": "subbrute",
+            "repo": "https://github.com/TheRook/subbrute",
+            "description": "DNS meta-query spider that enumerates DNS records, and subdomains, supported API"
+        },
+        {
+            "name": "GSDF",
+            "repo": "https://github.com/We5ter/GSDF",
+            "description": "Subdomain enumeration via Google certificate transparency"
+        },
+        {
+            "name": "cloudflare_enum",
+            "repo": "https://github.com/mandatoryprogrammer/cloudflare_enum",
+            "description": "Subdomain enumeration via CloudFlare"
+        },
+        {
+            "name": "knock",
+            "repo": "https://github.com/guelfoweb/knock",
+            "description": "Knock subdomain scan"
+        },
+        {
+            "name": "DomainSeeker",
+            "repo": "https://github.com/exp-db/PythonPool/tree/master/Tools/DomainSeeker",
+            "description": "An integrated Python subdomain enumeration tool"
+        },
+        {
+            "name": "BroDomain",
+            "repo": "https://github.com/code-scan/BroDomain",
+            "description": "Find brother domain"
+        },
+        {
+            "name": "dnsbrute",
+            "repo": "https://github.com/chuhades/dnsbrute",
+            "description": "A fast domain brute tool"
+        },
+        {
+            "name": "subdomain3",
+            "repo": "https://github.com/yanxiu0614/subdomain3",
+            "description": "A simple and fast tool for bruting subdomains"
+        },
+        {
+            "name": "aquatone",
+            "repo": "https://github.com/michenriksen/aquatone",
+            "description": "Powerful subdomain tool and domain takeovers finding tools"
+        },
+        {
+            "name": "dnssearch",
+            "repo": "https://github.com/evilsocket/dnssearch",
+            "description": "Subdomain enumeration tool"
+        },
+        {
+            "name": "domained",
+            "repo": "https://github.com/reconned/domained",
+            "description": "Subdomain enumeration tools for bug hunting"
+        },
+        {
+            "name": "Teemo",
+            "repo": "https://github.com/bit4woo/Teemo",
+            "description": "Domain name & Email address collection tool"
+        },
+        {
+            "name": "theHarvester",
+            "repo": "https://github.com/laramies/theHarvester",
+            "description": "E-mail, subdomain and people names harvester"
+        },
+        {
+            "name": "Inventus",
+            "repo": "https://github.com/nmalcolm/Inventus",
+            "description": "Spider designed to find subdomains of a specific domain by crawling it"
+        },
+        {
+            "name": "Sublist3r",
+            "repo": "https://github.com/aboul3la/Sublist3r",
+            "description": "Fast subdomains enumeration tool for penetration testers"
+        },
+        {
+            "name": "Anubis",
+            "repo": "https://github.com/jonluca/Anubis",
+            "description": "Subdomain enumeration and information gathering tool"
+        },
+        {
+            "name": "N4xD0rk",
+            "repo": "https://github.com/n4xh4ck5/N4xD0rk",
+            "description": "Listing subdomains about a main domain"
+        },
+        {
+            "name": "altdns",
+            "repo": "https://github.com/infosec-au/altdns",
+            "description": "Subdomain discovery through alterations and permutations"
+        },
+        {
+            "name": "ESD",
+            "repo": "https://github.com/FeeiCN/ESD",
+            "description": "Enumeration subdomains tool, based on AsyncIO and non-repeating dict"
+        },
+        {
+            "name": "ctfr",
+            "repo": "https://github.com/UnaPibaGeek/ctfr",
+            "description": "Abusing certificate transparency logs for getting HTTPS websites subdomains"
+        },
+        {
+            "name": "Dumb",
+            "repo": "https://github.com/giovanifss/Dumb",
+            "description": "Domain Bruteforcer, a fast and flexible domain bruteforcer"
+        },
+        {
+            "name": "Amass",
+            "repo": "https://github.com/OWASP/Amass",
+            "description": "In-depth Attack Surface Mapping and Asset Discovery"
+        },
+        {
+            "name": "subfinder",
+            "repo": "https://github.com/Ice3man543/subfinder",
+            "description": "Subdomain discovery tool with a simple modular architecture, successor to sublist3r project"
+        },
+        {
+            "name": "SubOver",
+            "repo": "https://github.com/Ice3man543/SubOver",
+            "description": "Powerful subdomain takeover tool"
+        },
+        {
+            "name": "horn3t",
+            "repo": "https://github.com/janniskirschner/horn3t",
+            "description": "Powerful Visual Subdomain Enumeration"
+        },
+        {
+            "name": "dnsub",
+            "repo": "https://github.com/yunxu1/dnsub",
+            "description": "High concurrency and cross platform subdomain scanner based on Golang"
+        },
+        {
+            "name": "OneForAll",
+            "repo": "https://github.com/shmilylty/OneForAll",
+            "description": "Ultimate subdomains scanner integrated with multiple subdomain scanning tools"
+        },
+        {
+            "name": "ksubdomain",
+            "repo": "https://github.com/knownsec/ksubdomain",
+            "description": "Stateless and cross-platform subdomain enumeration tool, speed up to 30w/s on Mac and Windows, and 160w/s on Linux"
+        },
+        {
+            "name": "github-subdomains",
+            "repo": "https://github.com/gwen001/github-subdomains",
+            "description": "Find subdomains on GitHub"
+        },
+        {
+            "name": "domain_hunter_pro",
+            "repo": "https://github.com/bit4woo/domain_hunter_pro",
+            "description": "Domain finder and Targets management, automated information collection, integrated with burpsuite"
+        },
+        {
+            "name": "takeover",
+            "repo": "https://github.com/m4ll0k/takeover",
+            "description": "Sub-Domain TakeOver Vulnerability Scanner"
+        },
+        {
+            "name": "Dome",
+            "repo": "https://github.com/v4d1/Dome",
+            "description": "Active and/or passive scan to obtain subdomains and search for open port"
+        },
+        {
+            "name": "regulator",
+            "repo": "https://github.com/cramppet/regulator",
+            "description": "Automated subdomain enumeration tool by learning of regexes for DNS discovery"
+        },
+        {
+            "name": "AORT",
+            "repo": "https://github.com/D3Ext/AORT",
+            "description": "All in One Recon Tool for domains"
+        }
+    ],
+    "Database SQL Injection Vulnerability or Brute Force": [
+        {
+            "name": "SQLiScanner",
+            "url": "https://github.com/0xbug/SQLiScanner",
+            "description": "A SQLi vulnerability scanner via SQLMAP and Charles"
+        },
+        {
+            "name": "DSSS",
+            "url": "https://github.com/stamparm/DSSS",
+            "description": "A SQLi vulnerability scanner with 99 lines of code"
+        },
+        {
+            "name": "NoSQLAttack",
+            "url": "https://github.com/youngyangyang04/NoSQLAttack",
+            "description": "A SQLi vulnerability scanner for mongoDB"
+        },
+        {
+            "name": "bbqsql",
+            "url": "https://github.com/Neohapsis/bbqsql",
+            "description": "A blind SQLi vulnerability scanner"
+        },
+        {
+            "name": "PowerUpSQL",
+            "url": "https://github.com/NetSPI/PowerUpSQL",
+            "description": "A SQLi vulnerability scanner with Powershell script"
+        },
+        {
+            "name": "Whitewidow",
+            "url": "https://github.com/WhitewidowScanner/whitewidow",
+            "description": "Another SQL vulnerability scanner"
+        },
+        {
+            "name": "mongoaudit",
+            "url": "https://github.com/stampery/mongoaudit",
+            "description": "A powerful MongoDB auditing and pentesting tool"
+        },
+        {
+            "name": "Nosql-Exploitation-Framework",
+            "url": "https://github.com/torque59/Nosql-Exploitation-Framework",
+            "description": "A Python framework For NoSQL scanning and exploitation"
+        },
+        {
+            "name": "blindy",
+            "url": "https://github.com/missDronio/blindy",
+            "description": "Simple script to automate brutforcing blind sql injection vulnerabilities"
+        },
+        {
+            "name": "Fox-scan",
+            "url": "https://github.com/fengxuangit/Fox-scan",
+            "description": "A initiative and passive SQL injection vulnerable test tools"
+        },
+        {
+            "name": "Blisqy",
+            "url": "https://github.com/JohnTroony/Blisqy",
+            "description": "Exploit time-based blind-SQL injection in HTTP-Headers"
+        },
+        {
+            "name": "jsql-injection",
+            "url": "https://github.com/ron190/jsql-injection",
+            "description": "A lightweight application used to find database information from a distant server"
+        },
+        {
+            "name": "sqliv",
+            "url": "https://github.com/Hadesy2k/sqliv",
+            "description": "Massive SQL injection vulnerability scanner"
+        },
+        {
+            "name": "sqlmate",
+            "url": "https://github.com/s0md3v/sqlmate",
+            "description": "A friend of SQLmap which will do what you always expected from SQLmap"
+        },
+        {
+            "name": "enumdb",
+            "url": "https://github.com/m8r0wn/enumdb",
+            "description": "MySQL and MSSQL brute force and post exploitation tool"
+        },
+        {
+            "name": "injectbot",
+            "url": "https://github.com/tariqhawis/injectbot",
+            "description": "A web-based, easy-to-use, SQL injection scanner and exploiter tool"
+        }
+    ],
+    "Weak Usernames or Passwords Enumeration For Web": [
+        {
+            "name": "htpwdScan",
+            "url": "https://github.com/lijiejie/htpwdScan",
+            "description": "A python HTTP weak pass scanner"
+        },
+        {
+            "name": "crack_ssh",
+            "url": "https://github.com/netxfly/crack_ssh",
+            "description": "SSH, Redis, mongoDB weak password bruteforcer"
+        },
+        {
+            "name": "weak_password_detect",
+            "url": "https://github.com/shengqi158/weak_password_detect",
+            "description": "A python HTTP weak password scanner"
+        },
+        {
+            "name": "Blazy",
+            "url": "https://github.com/s0md3v/Blazy",
+            "description": "a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF"
+        },
+        {
+            "name": "myBFF",
+            "url": "https://github.com/MooseDojo/myBFF",
+            "description": "Web application brute force framework,supports Citrix Gateway,CiscoVPN and so on"
+        },
+        {
+            "name": "web_pwd_common_crack",
+            "url": "https://github.com/TideSec/web_pwd_common_crack",
+            "description": "A common web weak_password cracking script,can detect batches of management backgrounds without verification codes"
+        }
+    ],
+    "IoT Hardware Automated Audit": [
+        {
+            "name": "IoTSeeker",
+            "url": "https://github.com/rapid7/IoTSeeker",
+            "description": "Weak-password IoT devices scanner"
+        },
+        {
+            "name": "iotdb",
+            "url": "https://github.com/shodan-labs/iotdb",
+            "description": "IoT Devices scanner via nmap"
+        },
+        {
+            "name": "RouterHunterBR",
+            "url": "https://github.com/googleinurl/RouterHunterBR",
+            "description": "Testing vulnerabilities in devices and routers connected to the Internet"
+        },
+        {
+            "name": "telnet-scanner",
+            "url": "https://github.com/scu-igroup/telnet-scanner",
+            "description": "Weak telnet password scanner based on password enumeration"
+        },
+        {
+            "name": "OWASP-Nettacker",
+            "url": "https://github.com/viraintel/OWASP-Nettacker",
+            "description": "Network information gathering vulnerability scanner,most useful to scan IoT"
+        },
+        {
+            "name": "routersploit",
+            "url": "https://github.com/threat9/routersploit",
+            "description": "Exploitation Framework for embedded Devices,such as router"
+        },
+        {
+            "name": "icsmaster",
+            "url": "https://github.com/w3h/icsmaster/tree/master/nse",
+            "description": "Digital bond's ICS enumeration tools"
+        },
+        {
+            "name": "firmeye",
+            "url": "https://github.com/firmianay/firmeye",
+            "description": "An IDA plug-in, based on sensitive function parameter backtracking to assist in vulnerability mining"
+        },
+        {
+            "name": "st",
+            "url": "https://github.com/bahaabdelwahed/st",
+            "description": "An advanced security tool engineered specifically to scrutinize and detect threats within the intricate protocols utilized by IoT (Internet of Things) devices"
+        },
+        {
+            "name": "salt-scanner",
+            "url": "https://github.com/0x4D31/salt-scanner",
+            "description": "Linux vulnerability scanner based on Salt Open and vulners audit API, with Slack notifications and JIRA integration"
+        },
+        {
+            "name": "Vulmap",
+            "url": "https://github.com/vulmon/Vulmap",
+            "description": "Local vulnerability scanning programs for Windows and Linux operating systems"
+        }
+    ],
+    "Multiple types of Cross-site scripting Detection": [
+        {
+            "name": "fuzzXssPHP",
+            "url": "https://github.com/0x584A/fuzzXssPHP",
+            "description": "A very simple reflected XSS scanner supports GET/POST"
+        },
+        {
+            "name": "xss_scan",
+            "url": "https://github.com/chuhades/xss_scan",
+            "description": "Reflected XSS scanner"
+        },
+        {
+            "name": "autoFindXssAndCsrf",
+            "url": "https://github.com/BlackHole1/autoFindXssAndCsrf",
+            "description": "A plugin for browser that checks automatically whether a page haves XSS and CSRF vulnerabilities"
+        },
+        {
+            "name": "shuriken",
+            "url": "https://github.com/shogunlab/shuriken",
+            "description": "XSS command line tool for testing lists of XSS payloads on web apps"
+        },
+        {
+            "name": "XSStrike",
+            "url": "https://github.com/s0md3v/XSStrike",
+            "description": "Fuzz and bruteforce parameters for XSS, WAFs detect and bypass"
+        },
+        {
+            "name": "DSXS",
+            "url": "https://github.com/stamparm/DSXS",
+            "description": "A fully functional cross-site scripting vulnerability scanner,supporting GET and POST parameters,and written in under 100 lines of code"
+        },
+        {
+            "name": "domdig",
+            "url": "https://github.com/fcavallarin/domdig",
+            "description": "DOM XSS scanner for Single Page Applications"
+        },
+        {
+            "name": "NoXss",
+            "url": "https://github.com/lwzSoviet/NoXss",
+            "description": "Faster reflected-xss and dom-xss scanner based on Phantomjs"
+        },
+        {
+            "name": "PwnXSS",
+            "url": "https://github.com/pwn0sec/PwnXSS",
+            "description": "A powerful XSS scanner made in python 3.7"
+        },
+        {
+            "name": "dalfox",
+            "url": "https://github.com/hahwul/dalfox",
+            "description": "Parameter Analysis and XSS Scanning tool based on golang"
+        }
+    ],
+    "Enterprise sensitive information Leak Scan": [
+        {
+            "name": "Multisearch-v2",
+            "url": "https://github.com/x0day/Multisearch-v2",
+            "description": "Enterprise assets collector based on search engine"
+        },
+        {
+            "name": "Zeus-Scanner",
+            "url": "https://github.com/Ekultek/Zeus-Scanner",
+            "description": "An advanced dork searching tool that is capable of finding IP address /URL blocked by search engine,and can run sqlmap and nmap scans on the URL's"
+        },
+        {
+            "name": "GitHarvester",
+            "url": "https://github.com/metac0rtex/GitHarvester",
+            "description": "Used for harvesting information from GitHub"
+        },
+        {
+            "name": "GitPrey",
+            "url": "https://github.com/repoog/GitPrey",
+            "description": "Searching sensitive files and contents in GitHub"
+        },
+        {
+            "name": "Hawkeye",
+            "url": "https://github.com/0xbug/Hawkeye",
+            "description": "Github leak scan for enterprise"
+        },
+        {
+            "name": "GitMiner",
+            "url": "https://github.com/UnkL4b/GitMiner",
+            "description": "Advanced search tool and automation in Github"
+        },
+        {
+            "name": "truffleHog",
+            "url": "https://github.com/dxa4481/truffleHog",
+            "description": "Searches high entropy strings through git repositories"
+        },
+        {
+            "name": "Goohak",
+            "url": "https://github.com/1N3/Goohak",
+            "description": "Automatically launch Google hacking queries against a target domain"
+        },
+        {
+            "name": "repo-security-scanner",
+            "url": "https://github.com/UKHomeOffice/repo-security-scanner",
+            "description": "CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys"
+        },
+        {
+            "name": "GSIL",
+            "url": "https://github.com/FeeiCN/GSIL",
+            "description": "Github sensitive information leakage scan"
+        },
+        {
+            "name": "x-patrol",
+            "url": "https://github.com/MiSecurity/x-patrol",
+            "description": "Github leaked patrol"
+        },
+        {
+            "name": "git-all-secrets",
+            "url": "https://github.com/anshumanbh/git-all-secrets",
+            "description": "A tool to capture all the git secrets by leveraging multiple open source git searching tools"
+        },
+        {
+            "name": "Github-Monitor",
+            "url": "https://github.com/VKSRC/Github-Monitor",
+            "description": "Github sensitive information leakage monitor by vipkid SRC"
+        },
+        {
+            "name": "shhgit",
+            "url": "https://github.com/eth0izzle/shhgit",
+            "description": "A docker and web based monitor for finding secrets and sensitive files across GitHub"
+        },
+        {
+            "name": "credential-digger",
+            "url": "https://github.com/SAP/credential-digger",
+            "description": "A GitHub scanning tool that identifies hardcoded credentials, filtering the false positive data through machine learning models"
+        },
+        {
+            "name": "dora",
+            "url": "https://github.com/sdushantha/dora",
+            "description": "Find exposed API keys based on RegEx and get exploitation methods for some of keys that are found"
+        }
+    ],
+    "Malicious Scripts Detection": [
+        {
+            "name": "findWebshell",
+            "url": "https://github.com/he1m4n6a/findWebshell",
+            "description": "Simple webshell detector"
+        },
+        {
+            "name": "php-malware-finder",
+            "url": "https://github.com/nbs-system/php-malware-finder",
+            "description": "An awesome tool to detect potentially malicious PHP files"
+        },
+        {
+            "name": "PHP-Shell-Detector",
+            "url": "https://github.com/emposha/PHP-Shell-Detector",
+            "description": "Helps you find and identify PHP/Perl/Asp/Aspx shells"
+        },
+        {
+            "name": "scan_webshell",
+            "url": "https://github.com/erevus-cn/scan_webshell",
+            "description": "Simple webshell detector"
+        },
+        {
+            "name": "Shell-Detector",
+            "url": "https://github.com/emposha/Shell-Detector",
+            "description": "An application that helps you find and identify PHP/Perl/Asp/Aspx shells"
+        }
+    ],
+    "Vulnerability Assessment for Middleware": [
+        {
+            "name": "wyportmap",
+            "url": "https://github.com/ring04h/wyportmap",
+            "description": "Target port scanning + system service fingerprint recognition"
+        },
+        {
+            "name": "weakfilescan",
+            "url": "https://github.com/ring04h/weakfilescan",
+            "description": "Dynamic multi-thread sensitive information leak detection tool"
+        },
+        {
+            "name": "wafw00f",
+            "url": "https://github.com/EnableSecurity/wafw00f",
+            "description": "Identify and fingerprint Web Application Firewall"
+        },
+        {
+            "name": "sslscan",
+            "url": "https://github.com/rbsec/sslscan",
+            "description": "Tests SSL/TLS enabled services to discover supported cipher suites"
+        },
+        {
+            "name": "TideFinger",
+            "url": "https://github.com/TideSec/TideFinger",
+            "description": "Web fingerprint identification tool, more fingerprint database, more detection methods"
+        },
+        {
+            "name": "FuzzScanner",
+            "url": "https://github.com/TideSec/FuzzScanner",
+            "description": "Comprehensive web information collection platform, easy to deploy, versatile and practical"
+        },
+        {
+            "name": "whatweb",
+            "url": "https://github.com/urbanadventurer/whatweb",
+            "description": "Website fingerprinter"
+        },
+        {
+            "name": "FingerPrint",
+            "url": "https://github.com/tanjiti/FingerPrint",
+            "description": "Another website fingerprinter"
+        },
+        {
+            "name": "Scan-T",
+            "url": "https://github.com/nanshihui/Scan-T",
+            "description": "A new spider based on Python with more functions including Network fingerprint search"
+        },
+        {
+            "name": "Nscan",
+            "url": "https://github.com/OffensivePython/Nscan",
+            "description": "Fast internet-wide scanner"
+        },
+        {
+            "name": "F-NAScan",
+            "url": "https://github.com/ywolf/F-NAScan",
+            "description": "Scanning a network asset information script"
+        },
+        {
+            "name": "dirsearch",
+            "url": "https://github.com/maurosoria/dirsearch",
+            "description": "Web path scanner"
+        },
+        {
+            "name": "bannerscan",
+            "url": "https://github.com/x0day/bannerscan",
+            "description": "C-segment Banner with path scanner"
+        },
+        {
+            "name": "RASscan",
+            "url": "https://github.com/RASSec/RASscan",
+            "description": "Internal network port service scanners"
+        },
+        {
+            "name": "bypass_waf",
+            "url": "https://github.com/3xp10it/bypass_waf",
+            "description": "Automatic WAF Bypass Fuzzing Tool"
+        },
+        {
+            "name": "xcdn",
+            "url": "https://github.com/3xp10it/xcdn",
+            "description": "Try to find out the actual IP behind CDN"
+        },
+        {
+            "name": "BingC",
+            "url": "https://github.com/Xyntax/BingC",
+            "description": "Based on the Bing search engine C / side-stop query, multi-threaded, supported API"
+        },
+        {
+            "name": "DirBrute",
+            "url": "https://github.com/Xyntax/DirBrute",
+            "description": "Multi-thread web directory enumerating tool"
+        },
+        {
+            "name": "httpscan",
+            "url": "https://github.com/zer0h/httpscan",
+            "description": "A HTTP service detector with a crawler from IP/CIDR"
+        },
+        {
+            "name": "doom",
+            "url": "https://github.com/lietdai/doom",
+            "description": "Distributed task distribution of the IP port vulnerability scanner based on thorn"
+        },
+        {
+            "name": "grab.js",
+            "url": "https://github.com/chichou/grab.js",
+            "description": "Fast TCP banner grabbing like zgrab, but supports much more protocol"
+        },
+        {
+            "name": "whichCDN",
+            "url": "https://github.com/Nitr4x/whichCDN",
+            "description": "Detect if a given website is protected by a CDN"
+        },
+        {
+            "name": "bcrpscan",
+            "url": "https://github.com/secfree/bcrpscan",
+            "description": "Base on crawler result web path scanner"
+        },
+        {
+            "name": "ssh_scan",
+            "url": "https://github.com/mozilla/ssh_scan",
+            "description": "A prototype SSH configuration and policy scanner"
+        },
+        {
+            "name": "domain-scan",
+            "url": "https://github.com/18F/domain-scan",
+            "description": "Scans domains for data on their HTTPS configuration and assorted other things"
+        },
+        {
+            "name": "inforfinder",
+            "url": "https://github.com/ggusoft/inforfinder",
+            "description": "A tool made to collect information of any domain pointing at a server and fingerprinter"
+        }
+    ],
+    "Vulnerability Assessment for Middleware": [
+        {
+            "name": "gwhatweb",
+            "url": "https://github.com/boy-hack/gwhatweb",
+            "description": "Fingerprinter for CMS"
+        },
+        {
+            "name": "FileScan",
+            "url": "https://github.com/Mosuan/FileScan",
+            "description": "Sensitive files scanner"
+        },
+        {
+            "name": "FileSensor",
+            "url": "https://github.com/Xyntax/FileSensor",
+            "description": "Dynamic file detection tool based on crawler"
+        },
+        {
+            "name": "cansina",
+            "url": "https://github.com/deibit/cansina",
+            "description": "Web content discovery tool"
+        },
+        {
+            "name": "cipherscan",
+            "url": "https://github.com/mozilla/cipherscan",
+            "description": "A very simple way to find out which SSL ciphersuites are supported by a target"
+        },
+        {
+            "name": "wfuzz",
+            "url": "https://github.com/xmendez/wfuzz",
+            "description": "Web application framework and web content scanner"
+        },
+        {
+            "name": "Breacher",
+            "url": "https://github.com/s0md3v/Breacher",
+            "description": "An advanced multithreaded admin panel finder written in Python"
+        },
+        {
+            "name": "changeme",
+            "url": "https://github.com/ztgrace/changeme",
+            "description": "A default credential scanner"
+        },
+        {
+            "name": "CyberScan",
+            "url": "https://github.com/medbenali/CyberScan",
+            "description": "An open source penetration testing tool that can analyze packets, decoding, scanning ports, pinging and geolocation of an IP"
+        },
+        {
+            "name": "HellRaiser",
+            "url": "https://github.com/m0nad/HellRaiser",
+            "description": "HellRaiser scan with nmap then correlates cpe's found with cve-search to enumerate vulnerabilities"
+        },
+        {
+            "name": "vulscan",
+            "url": "https://github.com/scipag/vulscan",
+            "description": "Advanced vulnerability scanning with Nmap NSE"
+        },
+        {
+            "name": "wig",
+            "url": "https://github.com/jekyc/wig",
+            "description": "WebApp information gatherer"
+        },
+        {
+            "name": "domain_analyzer",
+            "url": "https://github.com/eldraco/domain_analyzer",
+            "description": "Analyze the security of any domain by finding all the information possible"
+        },
+        {
+            "name": "paskto",
+            "url": "https://github.com/cloudtracer/paskto",
+            "description": "Passive directory scanner and web crawler based on Nikto DB"
+        },
+        {
+            "name": "WebEye",
+            "url": "https://github.com/zerokeeper/WebEye",
+            "description": "A web service and WAF fingerprinter"
+        },
+        {
+            "name": "shcheck",
+            "url": "https://github.com/m3liot/shcheck",
+            "description": "Just check security headers on a target website"
+        },
+        {
+            "name": "sensitivefilescan",
+            "url": "https://github.com/aipengjie/sensitivefilescan",
+            "description": "A speed and awesome sensitive files scanner"
+        },
+        {
+            "name": "cangibrina",
+            "url": "https://github.com/fnk0c/cangibrina",
+            "description": "A fast and powerful dashboard (admin) finder"
+        },
+        {
+            "name": "CMSsc4n",
+            "url": "https://github.com/n4xh4ck5/CMSsc4n",
+            "description": "Tool to identify if a domain is a CMS such as Wordpress, Moodle, Joomla"
+        },
+        {
+            "name": "WhatWaf",
+            "url": "https://github.com/Ekultek/WhatWaf",
+            "description": "Detect and bypass web application firewalls and protection systems"
+        },
+        {
+            "name": "goWAPT",
+            "url": "https://github.com/dzonerzy/goWAPT",
+            "description": "Go web application penetration test and web application fuzz tool"
+        },
+        {
+            "name": "webdirdig",
+            "url": "https://github.com/blackye/webdirdig",
+            "description": "Sensitive files scanner"
+        },
+        {
+            "name": "w8fuckcdn",
+            "url": "https://github.com/boy-hack/w8fuckcdn",
+            "description": "Get the website real IP address by scanning the entire net"
+        },
+        {
+            "name": "w11scan",
+            "url": "https://github.com/boy-hack/w11scan",
+            "description": "Distributed web fingerprint identification platform"
+        },
+        {
+            "name": "dirhunt",
+            "url": "https://github.com/Nekmo/dirhunt",
+            "description": "Find web directories without brute force"
+        },
+        {
+            "name": "dirmap",
+            "url": "https://github.com/H4ckForJob/dirmap",
+            "description": "An advanced web directory scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian"
+        },
+        {
+            "name": "Photon",
+            "url": "https://github.com/s0md3v/Photon",
+            "description": "Incredibly fast crawler which extracts URLs, emails, files, website accounts, and much more"
+        },
+        {
+            "name": "BlackWidow",
+            "url": "https://github.com/1N3/BlackWidow",
+            "description": "Gather OSINT and fuzz for OWASP vulnerabilities on a target website"
+        },
+        {
+            "name": "Maryam",
+            "url": "https://github.com/saeeddhqan/Maryam",
+            "description": "OSINT and Web-based Footprinting modular framework based on the Recon-ng"
+        },
+        {
+            "name": "network_backdoor_scanner",
+            "url": "https://github.com/lcatro/network_backdoor_scanner",
+            "description": "An internal network scanner like meterpreter"
+        },
+        {
+            "name": "AutoRecon",
+            "url": "https://github.com/Tib3rius/AutoRecon",
+            "description": "A multi-threaded network reconnaissance tool which performs automated enumeration of services"
+        },
+        {
+            "name": "LNScan",
+            "url": "https://github.com/sowish/LNScan",
+            "description": "Local Network Scanner based on BBScan via.lijiejie"
+        },
+        {
+            "name": "fscan",
+            "url": "https://github.com/shadow1ng/fscan",
+            "description": "Intranet integrated scanning tool, built for automatic, full coverage scanning"
+        },
+        {
+            "name": "DarkEye",
+            "url": "https://github.com/b1gcat/DarkEye",
+            "description": "Ports scan and host-alived detect"
+        },
+        {
+            "name": "sx",
+            "url": "https://github.com/v-byte-cpu/sx",
+            "description": "A network scanner that is 30x times faster than nmap"
+        },
+        {
+            "name": "jfscan",
+            "url": "https://github.com/nullt3r/jfscan",
+            "description": "Super fast port scanning & service discovery using Masscan and Nmap"
+        },
+        {
+            "name": "kscan",
+            "url": "https://github.com/lcvvvv/kscan",
+            "description": "Port scanning, protocol detection(1200+), fingerprint(1w+) and brute force cracking"
+        },
+        {
+            "name": "gobuster",
+            "url": "https://github.com/OJ/gobuster",
+            "description": "Directory/File, DNS and VHost busting tool written in Go"
+        }
+    ],
+    "Special Vulnerability Categories Scan for Web": [
+        {
+            "name": "XSSTracer",
+            "url": "https://github.com/1N3/XSSTracer",
+            "description": "A small python script to check for cross-Site tracing, Clickjacking etc"
+        },
+        {
+            "name": "dumpall",
+            "url": "https://github.com/0xHJK/dumpall",
+            "description": ".git / .svn / .DS_Store disclosure exploit"
+        },
+        {
+            "name": "svnhack",
+            "url": "https://github.com/shengqi158/svnhack",
+            "description": "A .svn folder disclosure exploit"
+        },
+        {
+            "name": "GitHack",
+            "url": "https://github.com/lijiejie/GitHack",
+            "description": "A .git folder disclosure exploit"
+        },
+        {
+            "name": "Jenkins",
+            "url": "https://github.com/blackye/Jenkins",
+            "description": "Jenkins vulnerability detection, user grab enumerating"
+        },
+        {
+            "name": "dzscan",
+            "url": "https://github.com/code-scan/dzscan",
+            "description": "discuz scanner"
+        },
+        {
+            "name": "CMS-Exploit-Framework",
+            "url": "https://github.com/chuhades/CMS-Exploit-Framework",
+            "description": "CMS exploit framework"
+        },
+        {
+            "name": "IIS_shortname_Scanner",
+            "url": "https://github.com/lijiejie/IIS_shortname_Scanner",
+            "description": "An IIS shortname scanner"
+        },
+        {
+            "name": "FlashScanner",
+            "url": "https://github.com/riusksk/FlashScanner",
+            "description": "Flash XSS scanner"
+        },
+        {
+            "name": "tplmap",
+            "url": "https://github.com/epinna/tplmap",
+            "description": "Automatic Server-Side Template Injection detection and exploitation tool"
+        },
+        {
+            "name": "wordpress-exploit-framework",
+            "url": "https://github.com/rastating/wordpress-exploit-framework",
+            "description": "Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems"
+        },
+        {
+            "name": "J2EEScan",
+            "url": "https://github.com/ilmila/J2EEScan",
+            "description": "A plugin for Burp Suite proxy to improve the test coverage during web application penetration tests on J2EE applications"
+        },
+        {
+            "name": "StrutScan",
+            "url": "https://github.com/riusksk/StrutScan",
+            "description": "Struts2 vuls scanner base Perl script"
+        },
+        {
+            "name": "LFISuite",
+            "url": "https://github.com/D35m0nd142/LFISuite",
+            "description": "Totally automatic LFI exploiter and scanner supports reverse shell"
+        },
+        {
+            "name": "angularjs-csti-scanner",
+            "url": "https://github.com/tijme/angularjs-csti-scanner",
+            "description": "Automated client-side template injection detection for AngularJS"
+        },
+        {
+            "name": "IIS-ShortName-Scanner",
+            "url": "https://github.com/irsdl/IIS-ShortName-Scanner",
+            "description": "Scanners for IIS short filename 8.3 disclosure vulnerability"
+        },
+        {
+            "name": "Wordpresscan",
+            "url": "https://github.com/swisskyrepo/Wordpresscan",
+            "description": "WPScan rewritten in Python + some WPSeku ideas"
+        },
+        {
+            "name": "cmsPoc",
+            "url": "https://github.com/CHYbeta/cmsPoc",
+            "description": "CMS exploit framework"
+        },
+        {
+            "name": "Smbtouch-Scanner",
+            "url": "https://github.com/3gstudent/Smbtouch-Scanner",
+            "description": "Automatically scan the inner network to detect whether they are vulnerable"
+        },
+        {
+            "name": "LFiFreak",
+            "url": "https://github.com/OsandaMalith/LFiFreak",
+            "description": "A unique automated LFI exploiter with bind/reverse shells"
+        },
+        {
+            "name": "parameth",
+            "url": "https://github.com/mak-/parameth",
+            "description": "This tool can be used to brute discover GET and POST parameters"
+        },
+        {
+            "name": "struts-scan",
+            "url": "https://github.com/Lucifer1993/struts-scan",
+            "description": "Struts2 vuls scanner, supported all vuls"
+        },
+        {
+            "name": "a2sv",
+            "url": "https://github.com/hahwul/a2sv",
+            "description": "Auto scanning to SSL vulnerability, such as heartbleed etc"
+        },
+        {
+            "name": "BaRMIe",
+            "url": "https://github.com/NickstaDB/BaRMIe",
+            "description": "Java RMI enumeration and attack tool"
+        },
+        {
+            "name": "grunt-retire",
+            "url": "https://github.com/RetireJS/grunt-retire",
+            "description": "Scanner detecting the use of Javascript libraries with known vulnerabilities"
+        },
+        {
+            "name": "BDA",
+            "url": "https://github.com/kotobukki/BDA",
+            "description": "The vulnerability detector for Hadoop and Spark"
+        },
+        {
+            "name": "Regex-DoS",
+            "url": "https://github.com/jagracey/Regex-DoS",
+            "description": "RegEx Denial of service scanner for Node.js package"
+        },
+        {
+            "name": "docker-onion-nmap",
+            "url": "https://github.com/milesrichardson/docker-onion-nmap",
+            "description": "Scan .onion hidden services with nmap using Tor, proxychains and dnsmasq"
+        },
+        {
+            "name": "XAttacker",
+            "url": "https://github.com/Moham3dRiahi/XAttacker",
+            "description": "Web CMS exploit framework"
+        },
+        {
+            "name": "BBScan",
+            "url": "https://github.com/lijiejie/BBScan",
+            "description": "A tiny batch web vulnerability scanner"
+        },
+        {
+            "name": "fuxploider",
+            "url": "https://github.com/almandin/fuxploider",
+            "description": "File upload vulnerability scanner and exploitation tool"
+        },
+        {
+            "name": "wphunter",
+            "url": "https://github.com/Jamalc0m/wphunter",
+            "description": "A Wordpress vulnerability scanner"
+        },
+        {
+            "name": "retire.js",
+            "url": "https://github.com/retirejs/retire.js",
+            "description": "A scanner detecting the use of Javascript libraries with known vulnerabilities"
+        },
+        {
+            "name": "xupload",
+            "url": "https://github.com/3xp10it/xupload",
+            "description": "A tool for automatically testing whether the upload function can upload webshell"
+        },
+        {
+            "name": "vbscan",
+            "url": "https://github.com/rezasp/vbscan",
+            "description": "OWASP VBScan is a Black Box vBulletin vulnerability scanner"
+        },
+        {
+            "name": "BadMod",
+            "url": "https://github.com/MrSqar-Ye/BadMod",
+            "description": "Detect websites CMS & auto exploit"
+        },
+        {
+            "name": "CMSeeK",
+            "url": "https://github.com/Tuhinshubhra/CMSeeK",
+            "description": "CMS detection and exploitation suite"
+        },
+        {
+            "name": "scans",
+            "url": "https://github.com/cloudsploit/scans",
+            "description": "AWS security scanning checks"
+        },
+        {
+            "name": "SVScanner",
+            "url": "https://github.com/radenvodka/SVScanner",
+            "description": "Scanner vulnerability and massive exploit for Wordpress, Magento, Joomla and so on"
+        },
+        {
+            "name": "joomscan",
+            "url": "https://github.com/rezasp/joomscan",
+            "description": "OWASP Joomla vulnerability scanner project"
+        },
+        {
+            "name": "djangohunter",
+            "url": "https://github.com/6IX7ine/djangohunter",
+            "description": "Tool designed to help identify incorrectly configured Django applications that are exposing sensitive information"
+        },
+        {
+            "name": "DELTA",
+            "url": "https://github.com/seungsoo-lee/DELTA",
+            "description": "Sdn security evaluation framework"
+        },
+        {
+            "name": "vulnx",
+            "url": "https://github.com/anouarbensaad/vulnx",
+            "description": "Intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system"
+        },
+        {
+            "name": "Mantra",
+            "url": "https://github.com/MrEmpy/Mantra",
+            "description": "A tool used to hunt down API key leaks in JS files and pages"
+        }
+    ],
+    "Dynamic or Static Code Analysis": [
+        {
+            "name": "cobra",
+            "url": "https://github.com/wufeifei/cobra",
+            "description": "A static code analysis system that automates the detecting vulnerabilities and security issue"
+        },
+        {
+            "name": "phpvulhunter",
+            "url": "https://github.com/OneSourceCat/phpvulhunter",
+            "description": "A tool that can scan php vulnerabilities automatically using static analysis methods"
+        },
+        {
+            "name": "phptrace",
+            "url": "https://github.com/Qihoo360/phptrace",
+            "description": "A tracing and troubleshooting tool for PHP scripts"
+        },
+        {
+            "name": "NodeJsScan",
+            "url": "https://github.com/ajinabraham/NodeJsScan",
+            "description": "A static security code scanner for Node.js applications"
+        },
+        {
+            "name": "pyvulhunter",
+            "url": "https://github.com/shengqi158/pyvulhunter",
+            "description": "A static security code scanner for Python applications"
+        },
+        {
+            "name": "pyt",
+            "url": "https://github.com/python-security/pyt",
+            "description": "A static analysis tool for detecting security vulnerabilities in Python web applications"
+        },
+        {
+            "name": "php-reaper",
+            "url": "https://github.com/emanuil/php-reaper",
+            "description": "PHP tool to scan ADOdb code for SQL injections"
+        },
+        {
+            "name": "phortress",
+            "url": "https://github.com/lowjoel/phortress",
+            "description": "A PHP static code analyser for potential vulnerabilities"
+        },
+        {
+            "name": "Hades",
+            "url": "https://github.com/zsdlove/Hades",
+            "description": "A Java static code auditing system"
+        },
+        {
+            "name": "Kunlun-M",
+            "url": "https://github.com/LoRexxar/Kunlun-M",
+            "description": "Static code auditing system for PHP/JavaScript/Chrome EXT"
+        },
+        {
+            "name": "bandit",
+            "url": "https://github.com/PyCQA/bandit",
+            "description": "A tool designed to find common security issues in Python code"
+        },
+        {
+            "name": "gokart",
+            "url": "https://github.com/praetorian-inc/gokart",
+            "description": "A static analysis tool for securing Go code"
+        },
+        {
+            "name": "tabby",
+            "url": "https://github.com/wh1t3p1g/tabby",
+            "description": "A static analysis tool for Java"
+        },
+        {
+            "name": "codecat",
+            "url": "https://github.com/CoolerVoid/codecat",
+            "description": "The tool to help you find/track user input sinks and security bugs in Java, C++, GO, Python, javascript, Swift etc. with regex rules"
+        },
+        {
+            "name": "goreporter",
+            "url": "https://github.com/qax-os/goreporter",
+            "description": "A Golang tool that does static analysis, unit testing, code review and generate code quality report"
+        },
+        {
+            "name": "codemillx",
+            "url": "https://github.com/hudangwei/codemillx",
+            "description": "Static code analysis for C++"
+        },
+        {
+            "name": "mobsec",
+            "url": "https://github.com/ajinabraham/mobsec",
+            "description": "Security scanner for Android and iOS apps"
+        },
+        {
+            "name": "AndroBugs_Framework",
+            "url": "https://github.com/AndroBugs/AndroBugs_Framework",
+            "description": "A framework for Android vulnerability analysis and security auditing"
+        },
+        {
+            "name": "androguard",
+            "url": "https://github.com/androguard/androguard",
+            "description": "Reverse engineering, Malware and goodware analysis of Android applications"
+        },
+        {
+            "name": "codex",
+            "url": "https://github.com/gowtham-sai/codex",
+            "description": "A static code analysis tool that detects vulnerable code in python, java, PHP, and JavaScript programs"
+        },
+        {
+            "name": "tsunami-security-scanner",
+            "url": "https://github.com/google/tsunami-security-scanner",
+            "description": "General purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence"
+        },
+        {
+            "name": "Checkov",
+            "url": "https://github.com/bridgecrewio/checkov",
+            "description": "Static analysis tool for Terraform, Cloudformation, Kubernetes, ARM Templates and Serverless framework"
+        },
+        {
+            "name": "go-dork",
+            "url": "https://github.com/jordanpotti/go-dork",
+            "description": "A tool that helps quickly scan for open S3 buckets, files, and webpages"
+        },
+        {
+            "name": "docker-scan",
+            "url": "https://github.com/cr0hn/docker-scan",
+            "description": "Static analysis tool for Docker services to predict security threats"
+        },
+        {
+            "name": "Gepetto",
+            "url": "https://github.com/alt3kx/Gepetto",
+            "description": "Static Code Analysis for SQL Injection Detection in Java"
+        },
+        {
+            "name": "vulpy",
+            "url": "https://github.com/Leviathan36/vulpy",
+            "description": "A vulnerability scanner for web applications written in Python 3"
+        },
+        {
+            "name": "OSSGadget",
+            "url": "https://github.com/microsoft/OSSGadget",
+            "description": "A tool to evaluate open source packages"
+        },
+        {
+            "name": "Munity",
+            "url": "https://github.com/erevus-cn/Munity",
+            "description": "A vulnerability scanner for iOS apps"
+        },
+        {
+            "name": "S3Scanner",
+            "url": "https://github.com/sa7mon/S3Scanner",
+            "description": "Scan for open S3 buckets and dump their contents"
+        },
+        {
+            "name": "cadet",
+            "url": "https://github.com/0xdec/cadet",
+            "description": "Compile-time analysis for detecting Elixir Application security defects"
+        },
+        {
+            "name": "mwscan",
+            "url": "https://github.com/cobbr/mwscan",
+            "description": "Static analysis tool to assist researchers in the analysis of Microsoft Office documents for the presence of malicious macros"
+        },
+        {
+            "name": "themis",
+            "url": "https://github.com/reep/themis",
+            "description": "An OpenSCAP scanner which uses the SCAP Security Guide"
+        },
+        {
+            "name": "boofuzz",
+            "url": "https://github.com/jtpereyda/boofuzz",
+            "description": "Network protocol fuzzing for humans"
+        },
+        {
+            "name": "vulnx",
+            "url": "https://github.com/anouarbensaad/vulnx",
+            "description": "Intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system"
+        },
+        {
+            "name": "catj",
+            "url": "https://github.com/dwisiswant0/catj",
+            "description": "Certificate transparency log monitoring"
+        },
+        {
+            "name": "weggli",
+            "url": "https://github.com/googleprojectzero/weggli",
+            "description": "A fast and robust semantic search tool for C/C++ codebases"
+        },
+        {
+            "name": "binsnitch",
+            "url": "https://github.com/countercept/binsnitch",
+            "description": "Finds evil by monitoring and reporting on unexpected file modifications in an operating system"
+        },
+        {
+            "name": "retire.js",
+            "url": "https://github.com/retirejs/retire.js",
+            "description": "Scanner detecting the use of JavaScript libraries with known vulnerabilities"
+        }
+    ],
+    "Modular Design Scanners or Vulnerability Detecting Framework": [
+        {
+            "name": "Faraday",
+            "url": "https://github.com/infobyte/faraday",
+            "description": "Collaborative penetration test and vulnerability management platform"
+        },
+        {
+            "name": "AZScanner",
+            "url": "https://github.com/az0ne/AZScanner",
+            "description": "Automatic all-around scanner"
+        },
+        {
+            "name": "Lalascan",
+            "url": "https://github.com/blackye/lalascan",
+            "description": "Distributed web vulnerability scanning framework"
+        },
+        {
+            "name": "BkScanner",
+            "url": "https://github.com/blackye/BkScanner",
+            "description": "Distributed, plug-in web vulnerability scanner"
+        },
+        {
+            "name": "GourdScanV2",
+            "url": "https://github.com/ysrc/GourdScanV2",
+            "description": "Passive vulnerability scanning system"
+        },
+        {
+            "name": "Passive Scan",
+            "url": "https://github.com/netxfly/passive_scan",
+            "description": "Realization of web vulnerability scanner based on http proxy"
+        },
+        {
+            "name": "Sn1per",
+            "url": "https://github.com/1N3/Sn1per",
+            "description": "Automated pentest recon scanner"
+        },
+        {
+            "name": "PentestEr",
+            "url": "https://github.com/RASSec/pentestEr_Fully-automatic-scanner",
+            "description": "Directional fully automated penetration testing"
+        },
+        {
+            "name": "POC-T",
+            "url": "https://github.com/Xyntax/POC-T",
+            "description": "Penetration test plug-in concurrency framework"
+        },
+        {
+            "name": "V3n0M-Scanner",
+            "url": "https://github.com/v3n0m-Scanner/V3n0M-Scanner",
+            "description": "Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other vulns"
+        },
+        {
+            "name": "leakScan",
+            "url": "https://github.com/Skycrab/leakScan",
+            "description": "Multiple vuls scan supports web interface"
+        },
+        {
+            "name": "AnyScan",
+            "url": "https://github.com/zhangzhenfeng/AnyScan",
+            "description": "A automated penetration testing framework"
+        },
+        {
+            "name": "RED_HAWK",
+            "url": "https://github.com/Tuhinshubhra/RED_HAWK",
+            "description": "An all In one tool For information gathering, SQL vulnerability scanning and crawling, coded In PHP"
+        },
+        {
+            "name": "DamnWebScanner",
+            "url": "https://github.com/swisskyrepo/DamnWebScanner",
+            "description": "Another web vulnerabilities scanner, this extension works on Chrome and Opera"
+        },
+        {
+            "name": "Tulpar",
+            "url": "https://github.com/anilbaranyelken/tulpar",
+            "description": "Web Vulnerability Scanner written in Python,supported multiple web vulnerabilities scan"
+        },
+        {
+            "name": "Yuki-Chan",
+            "url": "https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest",
+            "description": "An automated penetration testing tool this tool will auditing all standard security test method for you"
+        },
+        {
+            "name": "Yasuo",
+            "url": "https://github.com/0xsauby/yasuo",
+            "description": "Ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network"
+        },
+        {
+            "name": "Clusterd",
+            "url": "https://github.com/hatRiot/clusterd",
+            "description": "Application server attack toolkit"
+        },
+        {
+            "name": "Pocscan",
+            "url": "https://github.com/erevus-cn/pocscan",
+            "description": "Open source and distributed web vulnerability scanning framework"
+        },
+        {
+            "name": "Osprey",
+            "url": "https://github.com/TophantTechnology/osprey",
+            "description": "Distributed web vulnerability scanning framework"
+        },
+        {
+            "name": "Hammer",
+            "url": "https://github.com/yangbh/Hammer",
+            "description": "A web vulnerability scanner framework"
+        },
+        {
+            "name": "AngelSword",
+            "url": "https://github.com/Lucifer1993/AngelSword",
+            "description": "Web vulnerability scanner framework based on python3"
+        },
+        {
+            "name": "Zaproxy",
+            "url": "https://github.com/zaproxy/zaproxy",
+            "description": "One of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers"
+        },
+        {
+            "name": "Striker",
+            "url": "https://github.com/s0md3v/Striker",
+            "description": "Striker is an offensive information and vulnerability scanner"
+        },
+        {
+            "name": "Webvulscan",
+            "url": "https://github.com/dermotblair/webvulscan",
+            "description": "Written in PHP and can be used to test remote, or local, web applications for security vulnerabilities"
+        },
+        {
+            "name": "OWASP-mth3l3m3nt",
+            "url": "https://github.com/alienwithin/OWASP-mth3l3m3nt-framework",
+            "description": "Penetration testing aiding tool and exploitation framework"
+        },
+        {
+            "name": "Luna",
+            "url": "https://github.com/toyakula/luna",
+            "description": "An open-source web security scanner which is based on reduced-code passive scanning framework"
+        },
+        {
+            "name": "Fsociety",
+            "url": "https://github.com/Manisso/fsociety",
+            "description": "A Penetration Testing Framework including Information Gathering, Wireless Testing, Web Hacking and so on"
+        },
+        {
+            "name": "W9scan",
+            "url": "https://github.com/boy-hack/w9scan",
+            "description": "A web vulnerability scanner framework, running with 1200+ plugins"
+        },
+        {
+            "name": "WSSAT",
+            "url": "https://github.com/YalcinYolalan/WSSAT",
+            "description": "Web service security assessment tool, provide simple .exe application to use based on Windows OS"
+        },
+        {
+            "name": "AssassinGo",
+            "url": "https://github.com/AmyangXYZ/AssassinGo",
+            "description": "An extensible and concurrency pentest framework in Go"
+        },
+        {
+            "name": "Optiva-Framework",
+            "url": "https://github.com/joker25000/Optiva-Framework",
+            "description": "Web Application Scanner"
+        },
+        {
+            "name": "TIDoS-Framework",
+            "url": "https://github.com/theInfectedDrake/TIDoS-Framework",
+            "description": "The offensive web application penetration testing framework"
+        },
+        {
+            "name": "WDScanner",
+            "url": "https://github.com/TideSec/WDScanner",
+            "description": "A full-featured vulnerability scanner for enterprise security"
+        },
+        {
+            "name": "Osmedeus",
+            "url": "https://github.com/j3ssie/Osmedeus",
+            "description": "Fully automated offensive security tool for reconnaissance and vulnerability scanning"
+        },
+        {
+            "name": "Fuxi-Scanner",
+            "url": "https://github.com/jeffzh3ng/Fuxi-Scanner",
+            "description": "Open source network security vulnerability scanner with asset discovery & management"
+        },
+        {
+            "name": "Pocsuite",
+            "url": "https://github.com/knownsec/Pocsuite",
+            "description": "Open-sourced remote vulnerability testing framework"
+        },
+        {
+            "name": "Kunpeng",
+            "url": "https://github.com/opensec-cn/kunpeng",
+            "description": "An open source POC framework written by Golang that provides various language calls in the form of a dynamic link library"
+        },
+        {
+            "name": "Jaeles",
+            "url": "https://github.com/jaeles-project/jaeles",
+            "description": "The Swiss Army knife for automated Web Application Testing"
+        },
+        {
+            "name": "Mars",
+            "url": "https://github.com/TideSec/Mars",
+            "description": "The totally new generation of WDScanner"
+        },
+        {
+            "name": "Scant3r",
+            "url": "https://github.com/knassar702/scant3r",
+            "description": "Yet another web security scanner"
+        },
+        {
+            "name": "Tsunami",
+            "url": "https://github.com/google/tsunami-security-scanner",
+            "description": "A general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence by Google"
+        },
+        {
+            "name": "MagiCude",
+            "url": "https://github.com/er10yi/MagiCude",
+            "description": "A scanner based on the Spring Boot micro-service, supports distributed port (vulnerability) scanning, asset security management, real-time threat monitoring and notification, vulnerability lifecycle, vulnerability wiki, email notification, etc."
+        },
+        {
+            "name": "Nuclei",
+            "url": "https://github.com/projectdiscovery/nuclei",
+            "description": "A fast tool for configurable targeted vulnerability scanning based on templates offering massive extensibility"
+        },
+        {
+            "name": "Xunfeng",
+            "url": "https://github.com/ysrc/xunfeng",
+            "description": "Vulnerability rapid response, scanning system for intranet"
+        },
+        {
+            "name": "ARL",
+            "url": "https://github.com/TophantTechnology/ARL",
+            "description": "An agile asset reconnaissance system"
+        },
+        {
+            "name": "Sec-admin",
+            "url": "https://github.com/smallcham/sec-admin",
+            "description": "SEC can be used for enterprises to scan and check the security of server resources which has strong controllability, supports distributed multi-node deployment"
+        },
+        {
+            "name": "Jackhammer",
+            "url": "https://github.com/olacabs/jackhammer",
+            "description": "One Security vulnerability assessment/management tool to solve all the security team problems"
+        },
+        {
+            "name": "oFx",
+            "url": "https://github.com/bigblackhat/oFx",
+            "description": "Vulnerability verification framework, corporate assets analysis and rapid scanner for 1day vulnerability"
+        }
+    ],
+    "Advanced Persistent Threat Detect": [
+        {
+            "name": "Loki",
+            "url": "https://github.com/Neo23x0/Loki",
+            "description": "Simple IOC and Incident Response Scanner"
+        },
+        {
+            "name": "Fenrir",
+            "url": "https://github.com/Neo23x0/Fenrir",
+            "description": "Simple IOC and Incident Response Scanner"
+        }
+    ]
+}
