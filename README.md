@@ -1,5 +1,5 @@
 ### `README.md`
-```
+
 # Trix-Framework CLI Tool
 
 The Trix-Framework CLI tool is designed to help you manage and clone various security tools categorized by their functionality. This tool allows users to select categories, view tools within those categories, and clone the desired tools into their home directory. The tool also provides the ability to stop the cloning process without exiting the application.
@@ -24,9 +24,9 @@ The Trix-Framework CLI tool is designed to help you manage and clone various sec
 
 1. **Clone the Repository**
 
-    ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    ```
+    git clone https://github.com/TrixSec/Trix-Framework/
+    cd Trix-Framework
     ```
 
 2. **Ensure `tools.json` is Present**
@@ -37,8 +37,8 @@ The Trix-Framework CLI tool is designed to help you manage and clone various sec
 
 1. **Run the Script**
 
-    ```sh
-    python3 cli3.py
+    ```
+    python3 frameworkcli.py
     ```
 
 2. **Select a Category**
@@ -59,9 +59,9 @@ The Trix-Framework CLI tool is designed to help you manage and clone various sec
 
 ### Running the Script
 
-```sh
+
 ┌──(root㉿kali)-[~/Trix-Framework]
-└─# python3 cli3.py
+└─# python3 frameworkcli.py
 
 Categories Examples:
 1. Database SQL Injection Vulnerability or Brute Force
@@ -75,36 +75,35 @@ Tools in Database SQL Injection Vulnerability or Brute Force:
 Select a tool to clone (or type 'back' to go back, 'stop' to stop cloning, 'exit' to quit): 1
 
 Cloning SQLiScanner...
-```
 
 ## Handling Cloning Conflicts
 
 If the directory already exists, you will be prompted to overwrite it:
 
-```
+`
 The directory /root/SQLiScanner already exists. Do you want to overwrite it? (yes/no): no
 Skipping clone for https://github.com/0xbug/SQLiScanner as the directory already exists.
-```
+`
 
 ## Stopping the Cloning Process
 
 You can stop the cloning process by typing `stop`:
 
-```
+
 Select a tool to clone (or type 'back' to go back, 'stop' to stop cloning, 'exit' to quit): stop
 
 Cloning process interrupted. Terminating...
 Cloning stopped.
-```
+
 
 ## Interrupting the Process
 
 You can also interrupt the cloning process using `Ctrl+C`:
 
-```
+
 ^C
 Cloning process interrupted. Terminating...
-```
+
 
 ## Contributing
 
@@ -117,7 +116,6 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 Thanks to the contributors and the open-source community for providing the tools and resources used in this project.
-```
 
 
 This `README.md` provides clear instructions on how to use the CLI tool, making it easier for users to understand its functionality and usage.
