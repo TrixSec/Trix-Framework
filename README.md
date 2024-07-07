@@ -119,3 +119,5 @@ Thanks to the contributors and the open-source community for providing the tools
 
 
 This `README.md` provides clear instructions on how to use the CLI tool, making it easier for users to understand its functionality and usage.
+
+![Screenshot](https://github.com/TrixSec/Trix-Framework/blob/main/IMG_20240707_151943_797.jpg)
