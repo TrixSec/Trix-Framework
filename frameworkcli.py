@@ -4,7 +4,6 @@ import subprocess
 import time
 import requests
 from colorama import init, Fore, Style
-import pyfiglet
 from termcolor import colored 
 
 init()
@@ -63,10 +62,6 @@ def clone_repo(tool):
     target_dir = os.path.expanduser(f"~/{tool['name']}")
     subprocess.run(["git", "clone", repo_url, target_dir])
 
-def print_banner(text):
-    banner = pyfiglet.figlet_format(text)
-    print(Fore.CYAN + banner + Style.RESET_ALL)
-
 def print_category(category, index):
     print(Fore.GREEN + f"{index + 1}. {category}" + Style.RESET_ALL)
 
@@ -80,9 +75,7 @@ def main():
     categories = list(tools.keys())
     current_category = None
 
-    while True:
-        print_banner("Trixsec Framework")
-        
+    while True:        
         if current_category is None:
             print(Fore.BLUE + "Categories:" + Style.RESET_ALL)
             for idx, category in enumerate(categories):
