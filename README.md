@@ -1,6 +1,6 @@
 ### `README.md`
 
-# Trix-Framework CLI Tool
+# Trix-Framework CLI Tool 2.0.0
 
 The Trix-Framework CLI tool is designed to help you manage and clone various security tools categorized by their functionality. This tool allows users to select categories, view tools within those categories, and clone the desired tools into their home directory. The tool also provides the ability to stop the cloning process without exiting the application.
 
@@ -31,7 +31,7 @@ The Trix-Framework CLI tool is designed to help you manage and clone various sec
 
 2. **Ensure `tools.json` is Present**
 
-    Make sure the `tools.json` file is located in the same directory as `cli3.py`. The `tools.json` should contain the list of tools categorized by their functionality.
+    Make sure the `tools.json` file is located in the same directory as `frameworkcli.py`. The `tools.json` should contain the list of tools categorized by their functionality.
 
 ## Usage
 
@@ -52,7 +52,6 @@ The Trix-Framework CLI tool is designed to help you manage and clone various sec
 4. **Commands**
 
     - **Back**: Return to the category selection menu.
-    - **Stop**: Stop the current cloning process.
     - **Exit**: Exit the application.
 
 ## Example
@@ -60,7 +59,7 @@ The Trix-Framework CLI tool is designed to help you manage and clone various sec
 ### Running the Script
 
 
-┌──(root㉿kali)-[~/Trix-Framework]
+┌──(root㉿trix)-[~/Trix-Framework]
 └─# python3 frameworkcli.py
 
 Categories Examples:
@@ -85,39 +84,19 @@ The directory /root/SQLiScanner already exists. Do you want to overwrite it? (ye
 Skipping clone for https://github.com/0xbug/SQLiScanner as the directory already exists.
 `
 
-## Stopping the Cloning Process
-
-You can stop the cloning process by typing `stop`:
-
-
-Select a tool to clone (or type 'back' to go back, 'stop' to stop cloning, 'exit' to quit): stop
-
-Cloning process interrupted. Terminating...
-Cloning stopped.
-
-
 ## Interrupting the Process
 
 You can also interrupt the cloning process using `Ctrl+C`:
 
 
-^C
-Cloning process interrupted. Terminating...
+### Follow Us on Telegram
 
+Stay updated with the latest tools and hacking resources. Join our Telegram Channel by clicking the Telegram logo below:
 
-## Contributing
-
-Feel free to contribute to this project by opening issues, submitting pull requests, or suggesting features.
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png)](https://t.me/Trixsec)
 
 ## License
 
 This project is licensed under the MIT License.
 
-## Acknowledgments
 
-Thanks to the contributors and the open-source community for providing the tools and resources used in this project.
-
-
-This `README.md` provides clear instructions on how to use the CLI tool, making it easier for users to understand its functionality and usage.
-
-![Screenshot](https://github.com/TrixSec/Trix-Framework/blob/main/IMG_20240707_151943_797.jpg)
