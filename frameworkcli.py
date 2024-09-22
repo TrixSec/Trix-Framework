@@ -43,7 +43,7 @@ def display_banner():
     
     """
     print(colored(banner, 'cyan'))
-    print(colored(f"Waymap Version: {FRAMEWORK_VERSION}", 'yellow'))
+    print(colored(f"Framework Version: {FRAMEWORK_VERSION}", 'yellow'))
     print(colored(f"Made by {AUTHOR}", 'yellow'))
     print(colored(COPYRIGHT, 'yellow'))
     print("")
