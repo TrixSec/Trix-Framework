@@ -1,5 +1,3 @@
-### `README.md`
-
 # Trix-Framework CLI Tool 2.0.0
 
 The Trix-Framework CLI tool is designed to help you manage and clone various security tools categorized by their functionality. This tool allows users to select categories, view tools within those categories, and clone the desired tools into their home directory. The tool also provides the ability to stop the cloning process without exiting the application.
