@@ -8,7 +8,7 @@ from termcolor import colored
 
 init()
 
-FRAMEWORK_VERSION = "2.0.0"
+FRAMEWORK_VERSION = "2.1.0"
 AUTHOR = "Trix Cyrus"
 COPYRIGHT = "Copyright © 2024 Trixsec Org"
 

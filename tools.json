@@ -159,12 +159,8 @@
             "name": "gogo",
             "repo": "https://github.com/chainreactors/gogo",
             "description": "A highly controllable and scalable automation engine for red teams"
-        },
-        {
-            "name": "k",
-            "repo": "e",
-            "description": "e"
         }
+
     ],
     "Wireless Pentest": [
         {
@@ -478,6 +474,11 @@
     ],
     "Database SQL Injection Vulnerability or Brute Force": [
         {
+            "name": "waymap",
+            "url": "https://github.com/TrixSec/waymap",
+            "description": "A Web Crawler and SQLI vulnerability detector"
+        },
+        {
             "name": "SQLiScanner",
             "url": "https://github.com/0xbug/SQLiScanner",
             "description": "A SQLi vulnerability scanner via SQLMAP and Charles"
@@ -559,6 +560,11 @@
         }
     ],
     "Weak Usernames or Passwords Enumeration For Web": [
+        {
+            "name": "Hash-Hammer",
+            "url": "https://github.com/TrixSec/Hash-Hammer",
+            "description": "Hash-Hammer is a multi-threaded hash-cracking tool"
+        },
         {
             "name": "htpwdScan",
             "url": "https://github.com/lijiejie/htpwdScan",
@@ -808,7 +814,7 @@
             "description": "An application that helps you find and identify PHP/Perl/Asp/Aspx shells"
         }
     ],
-    "Vulnerability Assessment for Middleware": [
+    "WAF/IPS - Firewall Bypass And Detection Related Tools": [
         {
             "name": "wyportmap",
             "url": "https://github.com/ring04h/wyportmap",
@@ -941,6 +947,11 @@
         }
     ],
     "Vulnerability Assessment for Middleware": [
+        {
+            "name": "IPVulnScout",
+            "url": "https://github.com/TrixSec/IPVulnScout",
+            "description": "Powerful tool designed for vulnerability checking of IP addresses"
+        },
         {
             "name": "gwhatweb",
             "url": "https://github.com/boy-hack/gwhatweb",
